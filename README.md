@@ -7,13 +7,16 @@ In this project, we were tasked with assessing and manipulating big data, more p
 ## Results
 The following table illustrates how many vine and non-vine reviews were collected, and what percentage of each groups' reviews were 5 star reviews.
 
-*How many Vine reviews and non-Vine reviews were there?
+* How many Vine reviews and non-Vine reviews were there?
+
 ![bullet_1.png](/Resources/bullet_1.png) 
 
-*How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 ![bullet_2.png](/Resources/bullet_2.png)
 
-*What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 ![bullet_3.png](/Resources/bullet_3.png)
 
 ## Summary
